@@ -1,6 +1,6 @@
 ## Result
 
-![image](https://user-images.githubusercontent.com/10328020/159301196-30926aa7-dffd-40f2-a6d2-e9b00f44ec2c.png)
+![image](https://github.com/guocheer/Macs_SCD/blob/main/Macs.png)
     
 ## How to use
 
