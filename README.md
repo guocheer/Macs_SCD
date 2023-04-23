@@ -1,5 +1,4 @@
 ## Result
-![image](https://github.com/guocheer/Macs_SCD/blob/main/Macs.png)
     
 ## How to use
 
