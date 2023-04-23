@@ -1,7 +1,4 @@
-## Run
-
-![image](https://github.com/guocheer/Macs_SCD/blob/main/Macs.png)
-    
+  
 ## How to use
 
 
@@ -15,7 +12,9 @@ python demo.py
     macs, params = profile(model, inputs=(input1,input2))
     print("macs is {} G,params is {} M".format(macs / (1000 ** 3), params / (1000 ** 2)))
     ```  
+## Run
 
+![image](https://github.com/guocheer/Macs_SCD/blob/main/Macs.png)
 
 ## Acknowledgement
 
