@@ -12,8 +12,13 @@ python demo.py
     model = LSGCANetSiameseNet()
     macs, params = profile(model, inputs=(input1,input2))
     print("macs is {} G,params is {} M".format(macs / (1000 ** 3), params / (1000 ** 2)))
-    ```    
-   
+    ```  
+
+
+## Acknowledgement
+
+We heavily borrow code from public projects, such as [Macs](https://github.com/Lyken17/pytorch-OpCounter), [SimSaC](https://github.com/SAMMiCA/SimSaC), [CSCDNet](https://github.com/kensakurada/sscdnet)...
+  
 ## Results of Scene Change Detection
 
 <p align="center">
