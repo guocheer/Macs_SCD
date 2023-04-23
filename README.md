@@ -2,7 +2,8 @@
     
 ## How to use
 
-# python demo.py
+
+python demo.py
 
 * Basic usage 
     ```python
