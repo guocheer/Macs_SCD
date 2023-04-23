@@ -1,6 +1,9 @@
 
     
-## How to use 
+## How to use
+
+# python demo.py
+
 * Basic usage 
     ```python
     from LSGCANet import LSGCANetSiameseNet
